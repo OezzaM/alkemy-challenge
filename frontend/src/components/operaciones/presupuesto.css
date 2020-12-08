@@ -1,0 +1,13 @@
+.tarjeta{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    font-size: 25px;
+}
+
+.ant-card{
+    background-color: #40A9FF !important;
+    font-size: 30px !important;
+}

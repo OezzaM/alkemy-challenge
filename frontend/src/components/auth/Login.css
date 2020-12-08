@@ -1,0 +1,24 @@
+
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #f2f2f2;
+    background-color: royalblue;
+  }
+
+.login{
+    padding: 5em;
+    background-color: #f2f2f2;
+    box-shadow: 3px 5px 10px 3px rgba(0, 0, 0, .5);
+}
+
+.login-form-button {
+    width: 100%;
+  }
+
+.forgot-password{
+    text-align: center;
+}
